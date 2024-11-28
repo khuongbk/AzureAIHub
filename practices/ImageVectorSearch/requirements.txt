@@ -1,0 +1,5 @@
+wget
+azure-search-documents
+azure-identity
+pandas
+openai
