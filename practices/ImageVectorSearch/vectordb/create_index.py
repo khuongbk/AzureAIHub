@@ -45,7 +45,6 @@ client = AzureOpenAI(
     api_version=api_version,
     azure_endpoint=endpoint,
 )
-print("khuong")
 
 
 SEARCH_SERVICE_ENDPOIBT = os.getenv("SEARCH_SERVICE_ENDPOIBT")
